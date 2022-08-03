@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ajayspatil7
-- 👀 I’m interested in Computer, Space, Science
-- 🌱 I’m currently learning ... Quantum Computing, Ai, IOS Development
-- 💞️ I’m looking to collaborate on ... Nothing as of now
-- 📫 How to reach me ... aspatil99451@gmail.com, Insta : @s_patil_ajay
+- 👋 Hi, I’m @ajayspatil7 a freekin futuristic-Nerd... ;
+- 👀 I’m interested in Computer, Space, Science ;
+- 🌱 Currently learning ... Quantum Computing, AI, IOS Dev, Embedded systems programming;
+- 💞️ I’m looking to collaborate on ... Nothing as of now;
+- 📫 How to reach me ... aspatil99451@gmail.com, Insta : @s_patil_ajay;
 
 
 <!---
