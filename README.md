@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **professionalcontact.ajaypatil@gmail.com**
 
-- ⚡ Fun fact **I know I am not Funny. Thanks for reminding me.**
+- ⚡ Fun fact ** My mother tongue is Python :) **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
