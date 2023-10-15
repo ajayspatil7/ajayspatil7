@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ajaysp.py@gmail.com**
 
-- ⚡ Fun fact **I know more programming languages than human Period.**
+- ⚡ Fun fact **I know more programming languages than human languages Period.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
