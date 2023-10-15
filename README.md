@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **professionalcontact.ajaypatil@gmail.com**
 
-- ⚡ Fun fact **I know more programming languages than human languages**
+- ⚡ Fun fact **I know more programming languages than human languages.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
