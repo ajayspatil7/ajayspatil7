@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything and Everything about Computers, Science, Space.**
 
-- 📫 How to reach me **professionalcontact.ajaypatil@gmail.com**
+- 📫 How to reach me **ajaysp.py@gmail.com**
 
 - ⚡ Fun fact **I know more programming languages than human Period.**
 
